@@ -1,3 +1,4 @@
+publishDir="docs"
 baseURL = "https://riclib.github.io/solidmon-pages/"
 title = "Solidmon - Your Monitoring Solution"
 
