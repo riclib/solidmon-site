@@ -1,5 +1,5 @@
 baseURL = "https://riclib.github.io/solidmon-pages/"
-title = "Solidmon"
+title = "Solidmon - Your Monitoring Solution"
 
 # Language settings
 contentDir = "content/en"
